@@ -1,2 +1,2 @@
-# xredstat
-A port of XLispStat to the Reduce Computer Algebra System
+# reduce-code
+An assortment of code and packages for the REDUCE computer algebra system.
